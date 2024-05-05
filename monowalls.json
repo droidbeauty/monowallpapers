@@ -1,137 +1,82 @@
 [
-   {
-      "name":"A Lot of Swirls",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/A%20Lot%20of%20Swirls.png"
-   },
-   {
-      "name":"Beans Dark",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Beans%20Dark.png"
-   },
-   {
-      "name":"Beans Light",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Beans%20Light.png"
-   },
-   {
-      "name":"Between The Lines",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Between%20The%20Lines.png"
-   },
-   {
-      "name":"Between The Lines Dark",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Between%20The%20Lines%20Dark.png"
-   },
-   {
-      "name":"Circles Dark",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Circles%20Dark.png"
-   },
-   {
-      "name":"Dark Funk",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Dark%20Funk.png"
-   },
-   {
-      "name":"Explode",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Explode.png"
-   },
-   {
-      "name":"Falling Dark",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Falling%20Dark.png"
-   },
-   {
-      "name":"Haze Dark",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Haze%20Dark.png"
-   },
-   {
-      "name":"Dots Dark",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Dots%20Dark.png"
-   },
-   {
-      "name":"Immersion",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Immersion.png"
-   },
-   {
-      "name":"Layer Dark",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Layer%20Dark.png"
-   },
-   {
-      "name":"Layer Light",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Layers%20Light.png"
-   },
-   {
-      "name":"Layers",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Layers.png"
-   },
-   {
-      "name":"Lines",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Lines.png"
-   },
-   {
-      "name":"Milky Way Bright",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Milky%20Way%20Bright.png"
-   },
-   {
-      "name":"Milky Way",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Milky%20Way.png"
-   },
-   {
-      "name":"Mosaic",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Mosaic.png"
-   },
-   {
-      "name":"Mountain Dark",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Mountain%20Dark.png"
-   },
-   {
-      "name":"Mountain",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Mountain.png"
-   },
-   {
-      "name":"Opus Lines Dark",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Opus%20Lines%20Dark.png"
-   },
-   {
-      "name":"Opus Lines",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Opus%20Lines.png"
-   },
-   {
-      "name":"Rounded Halves Dark",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Rounded%20Halves%20Dark.png"
-   },
-   {
-      "name":"Rounded Halves",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Rounded%20Halves.png"
-   },
-   {
-      "name":"Steps Dark",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Steps%20Dark.png"
-   },
-   {
-      "name":"Swirl Stuff Dark",
-      "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/Swirl%20Stuff%20Dark.png"
-   }
+	{
+   	"name": "M16",
+		"url": "https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/M16.jpg",
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "M15",
+		"url": "https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/M15.jpg",
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "M14",
+		"url": "https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/M14.jpg",
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "M13",
+		"url": "https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/M13.jpg",
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "M12",
+		"url": "https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/M12.jpg",
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "M11",
+		"url": "https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/M11.jpg",
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "M10",
+		"url": "https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/M10.jpg",
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "M09",
+		"url": "https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/M09.jpg",
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "M08",
+		"url": "https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/M08.jpg",
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "M07",
+		"url": "https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/M07.jpg",
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "M06",
+		"url": "https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/M06.jpg",
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "M05",
+		"url": "https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/M05.jpg",
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "M04",
+		"url": "https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/M04.jpg",
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "M03",
+		"url": "https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/M03.jpg",
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "M02",
+		"url": "https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/M02.jpg",
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "M01",
+		"url": "https://raw.githubusercontent.com/droidbeauty/monowallpapers/main/M01.jpg",
+		"copyright": "Unsplash"
+	}
 ]
